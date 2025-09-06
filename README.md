@@ -10,7 +10,7 @@ Welcome to the official repository for my personal portfolio website. This proje
 
 This isn't just a list of my projects; it's a project in itself, featuring a modern design, dynamic animations, and a fully responsive layout.
 
-**Live Site:** [your-portfolio-link.com](https://your-portfolio-link.com) 👈 *(Remember to replace this with your actual deployed link!)*
+**Live Site:** ([https://your-portfolio-link.com](https://portfolio-2wl6.onrender.com)) 👈 *(Remember to replace this with your actual deployed link!)*
 
 ---
 
